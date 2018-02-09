@@ -16,9 +16,9 @@ Score : **125**/100
 
 #### Fillit
 Score : **100**/100
+*(Did it with @itokoyamato)*
 
 A program that take as input many [tetrominoes](https://en.wikipedia.org/wiki/Tetromino), and must make them fit in the tiniest space possible.
-*(Did it with @itokoyamato)*
 
 #### Fract'ol
 Score : **113**/100
@@ -34,28 +34,35 @@ Recreation of the `printf` function of the OSX standard library.
 
 #### Lem-in
 Score : **125**/100
+*(Did it with @itokoyamato)*
 
 This is a initiation to pathfinding algorithm, the program will take an anthill into the form of a text file, (number of ants, rooms and tunnels) and will make ants reach the exit in the less numbers of turns possible.
 For example, the anthill bellow is defined by this :
 ```
+#Number of ants
 3
+#Rooms
 2 5 0
 ##start
 0 1 2
 ##end
 1 9 2
 3 5 4
+#And here the tunnels
 0-2
 0-3
 2-1
 3-1
 2-3
+
+#This is the output that the program will send to us, all the movements
 L1-3 L2-2
 L1-1 L2-1 L3-3
 L3-1
 ```
+Will look like this (The animation is running here, showing ants runnings trough tunnels) :
+
 ![Lem_in WebGL visualizer](https://i.imgur.com/ppjvM95.png)
-*(Did it with @itokoyamato)*
 
 #### push_swap
 Score : **94**/100
