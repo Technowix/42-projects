@@ -32,6 +32,31 @@ Score : **100**/100
 Recreation of the `printf` function of the OSX standard library.
 *(Code isn't shiny at all, school limitations pushed me hard, and I didn't wanted to do it ine many, many function, so... ItWorkButNeverInProduction™️)*
 
+#### Lem-in
+Score : **125**/100
+
+This is a initiation to pathfinding algorithm, the program will take an anthill into the form of a text file, (number of ants, rooms and tunnels) and will make ants reach the exit in the less numbers of turns possible.
+For example, the anthill bellow is defined by this :
+```
+3
+2 5 0
+##start
+0 1 2
+##end
+1 9 2
+3 5 4
+0-2
+0-3
+2-1
+3-1
+2-3
+L1-3 L2-2
+L1-1 L2-1 L3-3
+L3-1
+```
+![Lem_in WebGL visualizer](https://i.imgur.com/ppjvM95.png)
+*(Did it with @itokoyamato)*
+
 #### push_swap
 Score : **94**/100
 
