@@ -1,4 +1,5 @@
 Mostly code-golf and trying to push C and my learning at the edge of what we are allowed at the school : [FR](https://cdn.intra.42.fr/pdf/pdf/317/norme.fr.pdf)/[EN](https://cdn.intra.42.fr/pdf/pdf/960/norme.en.pdf)
+
 No, I would never put any of thoses in production.
 * * *
 
